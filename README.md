@@ -1,2 +1,2 @@
 # MarshalXP
- * Powerded by Marshal's Lab
+* Powerded by Marshal's Lab
